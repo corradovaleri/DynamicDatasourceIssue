@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DynamicDatasourceIssue", "DynamicDatasourceIssue\DynamicDatasourceIssue.rptproj", "{1C5854DA-2B89-4169-826D-310AFA1C051F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.Debug|Default.ActiveCfg = Debug
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.Debug|Default.Build.0 = Debug
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.Debug|Default.Deploy.0 = Debug
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.DebugLocal|Default.Build.0 = DebugLocal
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.Release|Default.ActiveCfg = Release
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.Release|Default.Build.0 = Release
+		{1C5854DA-2B89-4169-826D-310AFA1C051F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
